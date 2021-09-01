@@ -1,0 +1,6 @@
+displayName = Lan's Display Player Stats
+author = Lanboost
+version = 0.1.0
+includePDB = true
+includeSource = true
+homepage = https://github.com/Lanboost/TModLoader_LansDisplayPlayerStats

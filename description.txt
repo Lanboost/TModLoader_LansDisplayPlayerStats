@@ -1,0 +1,7 @@
+Lans Display Player Stats display most interesting player variables (does not support other mods custom stats).
+
+
+Changelog:
+
+v. 0.1.0:
+	- Initial commit
